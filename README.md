@@ -16,10 +16,10 @@ Criar uma interface de login simples com suporte a:
 O projeto é dividido em quatro arquivos principais:
 
 ProjetoKivyLoginUsuarios/
-- main.py # Lógica principal da interface Kivy e navegação
-- database.py # Classe para gerenciamento dos usuários
-- my.kv # Definições da interface com Kivy Language
-- users.txt # Arquivo com os dados persistidos dos usuários
+- main.py: Lógica principal da interface Kivy e navegação
+- database.py: Classe para gerenciamento dos usuários
+- my.kv: Definições da interface com Kivy Language
+- users.txt: Arquivo com os dados persistidos dos usuários
 
 ## Descrição dos Arquivos
 
